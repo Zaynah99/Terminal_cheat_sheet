@@ -32,6 +32,7 @@
 * `git revert` - allows undo of specific commit
 * `git reset` - undo specific commit and every commit after that
 * `git rebase` - removes all commits and history
+* `git ignote` - ignored intentionally untracked files
 
 
 ### Git steps
