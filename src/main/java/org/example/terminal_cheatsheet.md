@@ -62,7 +62,7 @@
 4. Continue with `Step 2` from `Git steps` above
 
 
-### COLLABORATION USING BRANCHES
+### Collaboration using branches
 
 * `git branch` + `directory name` - creates a branch
 * `git checkout` + `directory name` - moves to alternative branch
