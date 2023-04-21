@@ -11,14 +11,22 @@
 * `pkill java` - stops running
 
 
+
+
 ### Lists
 * `ls` - lists folders and files
 * `ls -a`  - lists hidden files and directories
 * `ls -l` - detailed lists
 
+
+
+
+
 ### Screen
 * `control l or clear` - clears screen
 * `q` - quits screen
+
+
 
 
 ### Removing
@@ -28,15 +36,16 @@
 >Note: Be careful when removing as files are difficult to recover (if at all)
 
 
-### Git
 
+
+### Git
 * `git status` - what files have been modified
 * `git log` - shows every commit with added information
 * `git revert` - allows undo of specific commit
 * `git reset` - undo specific commit and every commit after that
 * `git rebase` - removes all commits and history
 * `.gitignore` - ignored intentionally untracked files
-* 
+
 
 ### Git steps
 1. `git init` - initialises repository
@@ -48,11 +57,14 @@
 >Note: git commit -m" " must have a message (ideally a specific description) . Git can commit all or a specific file. 
 
 
-### Collaboration
 
+
+### Collaboration
 (For file `owner`)
 1. follow Git steps above
 2. `Github` -> `Settings` -> `Collaborators` -> `Invite`
+
+
 
 
 (for `collaborator` cloning the file)
@@ -62,8 +74,9 @@
 4. Continue with `Step 2` from `Git steps` above
 
 
-### Collaboration using branches
 
+
+### Collaboration using branches
 * `git branch` + `directory name` - creates a branch
 * `git checkout` + `directory name` - moves to alternative branch
 * `git merge` - merges branches
@@ -74,8 +87,9 @@
 >Note: must push/pull to corresponding branch e.g push/pull origin main
 
 
-### Database
 
+
+### Database
 * `psql` - 
 * `createdb` - creates database
 * `dropdb` - removes database
