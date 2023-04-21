@@ -8,6 +8,7 @@
 * `pwd` shows path to current directory
 * `touch` - creates new file
 * `mv` - moves files from one location to another
+* `pkill java` - stops running
 
 
 ### Lists
@@ -60,6 +61,17 @@
 3. `Git Pull` - to pull files to local 
 4. Continue with `Step 2` from `Git steps` above
 
+
+### COLLABORATION USING BRANCHES
+
+* `git branch` + `directory name` - creates a branch
+* `git checkout` + `directory name` - moves to alternative branch
+* `git merge` - merges branches
+
+
+>Note: merge command must occur on where you would like merge to occur e.g. main
+
+>Note: must push/pull to corresponding branch e.g push/pull origin main
 
 
 ### Database
