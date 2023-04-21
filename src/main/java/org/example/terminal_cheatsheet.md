@@ -56,6 +56,18 @@
 
 (for `collaborator` cloning the file)
 1. `Git Clone` - in Terminal and chosen folder
-2. Add `SSH Key` - from Github  
+2. Add `SSH Key` - from Github  repo
 3. `Git Pull` - to pull files to local 
+4. Continue with `Step 2` from `Git steps` above
+
+
+
+### Database
+
+* `psql` - 
+* `createdb` - creates database
+* `dropdb` - removes database
+* `\c` + `name of db` - creating database
+* `\dt` - drops table
+
 
